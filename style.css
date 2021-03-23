@@ -1,0 +1,13 @@
+h1 {
+Color: blue;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+border-radius: 5px;
+font-family: "Courier New", monospace;
+direction: unset;
+}
+
+body{
+    background-color: oldlace;
+}
