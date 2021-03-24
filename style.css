@@ -1,7 +1,7 @@
 h1 {
-Color: blue;
+Color: rgb(0, 0, 0);
 border-width: 1px;
-border-color: black;
+border-color: rgb(62, 60, 60);
 border-style: solid;
 border-radius: 5px;
 font-family: "Courier New", monospace;
@@ -9,5 +9,5 @@ direction: unset;
 }
 
 body{
-    background-color: oldlace;
+    background-color: orange;
 }
